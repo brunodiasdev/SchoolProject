@@ -6,15 +6,25 @@ div#login{
 }
 main#basemain{
     position: relative;
-    width:50%;
+    width:100%;
     background-color: rgb(123, 180, 180);
     padding: 20px;
     margin: 0;
+    display: inline-block;
+}
+main#basemain h1{
+    font-size: 15pt;
 }
 div#loginAluno{
-
+    width: 40%;
+    display: inline-block;
+    margin-left: 10%;
+    
 }
 div#loginEscola{
-    float: right;
+    float: left;
+    width: 40%;
+    background-color: #cccccc;
+
     
 }
