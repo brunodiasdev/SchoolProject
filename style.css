@@ -1,0 +1,13 @@
+div#login{
+    margin: 10% 12% 30% 12%;
+    background-color: aqua;
+    padding: 10%;
+    
+}
+main#basemain{
+    position: relative;
+    width:50%;
+    background-color: rgb(123, 180, 180);
+    padding: 20px;
+    margin: 0;
+}
