@@ -2,7 +2,7 @@ div#login{
     margin: 10% 12% 30% 12%;
     background-color: aqua;
     padding: 10%;
-    
+    display: inline-block;
 }
 main#basemain{
     position: relative;
@@ -10,4 +10,11 @@ main#basemain{
     background-color: rgb(123, 180, 180);
     padding: 20px;
     margin: 0;
+}
+div#loginAluno{
+
+}
+div#loginEscola{
+    float: right;
+    
 }
