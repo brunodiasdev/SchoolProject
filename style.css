@@ -1,6 +1,8 @@
 div#login{
-    margin: 10% 12% 30% 12%;
+    margin: 0;
     background-color: aqua;
+    width: auto;
+    height: auto;
     padding: 10%;
     display: inline-block;
 }
