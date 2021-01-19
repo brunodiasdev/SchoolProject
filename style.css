@@ -34,5 +34,14 @@ div#loginEscola{
     
 }
 @media (max-width: 480px) { 
-    
+    div#login{
+        margin: 0;
+        width: auto;
+        height: auto;
+        padding: 10%;
+        display: block;
+    }
+    #loginAluno{
+        background-color: ;
+    }
 }
