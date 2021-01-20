@@ -39,7 +39,7 @@ div#loginEscola{
         width: auto;
         height: auto;
         padding: 10%;
-        display: block;
+        display: block;/**/
     }
     #loginAluno{
     }
